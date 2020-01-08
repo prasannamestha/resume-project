@@ -1,4 +1,5 @@
 import React from 'react'
+import ProfilePic from '../images/Prasanna.jpg'
 
 const About = () => {
     return (
@@ -6,7 +7,7 @@ const About = () => {
             <div className="box">
                 <div className="profile-summary">
                     <div className="profile-image">
-                        <img src="images/Prasanna.jpg" alt="Profile Image" className="profile-pic" />
+                        <img src={ProfilePic} alt="Profile Image" className="profile-pic" />
                     </div>
                     <div className="profile-heading">
                         <h1>Prasanna Mestha</h1>
