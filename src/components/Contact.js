@@ -9,7 +9,7 @@ const Contact = () => (
             </div>
             <div className="contact-row">
                 <i className="fa fa-envelope-o" aria-hidden="true"></i>
-                <h2>hello@practiskills.com</h2>
+                <h2>prasanna.mestha@practiskills.com</h2>
             </div>
         </div>
     </section>

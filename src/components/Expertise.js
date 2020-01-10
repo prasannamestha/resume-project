@@ -25,7 +25,7 @@ const Expertise = () => {
                     </div>
                     <div className="right w-500 pl-25 v-top">
                         <h2>Javascript</h2>
-                        <span>Developed and deployed ReactJs applications. Expertise in building className based and Functional components.</span>
+                        <span>Have been working on Javascript related technologies such as ReactJs & NodeJS.</span>
                     </div>
                 </div>
 
