@@ -13,7 +13,7 @@ const About = () => {
                         <h1>Prasanna Mestha</h1>
                         <p>
                             <span className="icon"><i className="fa fa-envelope-o" aria-hidden="true"></i></span>
-                            hello@practiskills.com
+                            prasanna.mestha@practiskills.com
                         </p>
                         <p>
                             <span className="icon"><i className="fa fa-map-marker" aria-hidden="true"></i></span>
